@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Balaji K</h1>
 <h3 align="center">An electronics engineer passionate about learning new tech everyday.</h3>
-<img align = "center" alt = "Coding" width="300" height = "300" src= "https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
+<img align = "center" alt = "Coding" width="1100" height = "400" src= "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saintbuddha1009&label=Profile%20views&color=0e75b6&style=flat" alt="saintbuddha1009" /> </p>
 
