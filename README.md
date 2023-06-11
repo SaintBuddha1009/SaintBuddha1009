@@ -1,4 +1,4 @@
-<h1 align="center">👾 Welcome to my DEN 👾</h1>
+<h1 align="center">👾 This is Balaji Krishnan 👾</h1>
 <h3 align="center">💡An electronics engineer passionate about learning new tech everyday💡</h3>
 <img align = "center" alt = "Coding" width="1100" height = "200" src= "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif">
 
