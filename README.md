@@ -1,4 +1,3 @@
-<img align = "center" alt = "Coding" width="1100" height = "200" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.needpix.com%2Fphoto%2F486485%2Fweb-banner-abstract-internet-technology-web-banners-design-web-design-website&psig=AOvVaw3bUOm90vcgHcajArQJ9jkn&ust=1686588753866000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMiorP7Wu_8CFQAAAAAdAAAAABAD">
 <h1 align="center">👾 This is Balaji Krishnan 👾</h1>
 <h3 align="center">💡An electronics engineer passionate about learning new tech everyday💡</h3>
 <img align = "center" alt = "Coding" width="1100" height = "200" src= "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif">
