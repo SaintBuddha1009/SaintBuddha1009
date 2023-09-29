@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saintbuddha1009&label=Profile%20views&color=0e75b6&style=flat" alt="saintbuddha1009" /> </p>
 
-- 🔭 I’m currently working on **Developing new projects using different microcontrollers and honing my front-end skills.**
+- 🔭 I’m currently working on **Honing my microcontroller skills and exploring various fields to develop real life solutions**
 
-- 🌱 I’m currently learning **Arduino, Java, Front-end development**
+- 🌱 I’m currently learning **Arduino, Verilog and C programming**
 
 - 📫 You can reach me through **hosurbalajik@gmail.com**
 
